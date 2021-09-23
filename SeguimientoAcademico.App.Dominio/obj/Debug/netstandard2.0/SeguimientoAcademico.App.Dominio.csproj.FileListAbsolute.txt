@@ -1,0 +1,9 @@
+C:\Seguimiento\SeguimientoAcademico.App\SeguimientoAcademico.App.Dominio\obj\Debug\netstandard2.0\SeguimientoAcademico.App.Dominio.csprojAssemblyReference.cache
+C:\Seguimiento\SeguimientoAcademico.App\SeguimientoAcademico.App.Dominio\obj\Debug\netstandard2.0\SeguimientoAcademico.App.Dominio.AssemblyInfoInputs.cache
+C:\Seguimiento\SeguimientoAcademico.App\SeguimientoAcademico.App.Dominio\obj\Debug\netstandard2.0\SeguimientoAcademico.App.Dominio.AssemblyInfo.cs
+C:\Seguimiento\SeguimientoAcademico.App\SeguimientoAcademico.App.Dominio\obj\Debug\netstandard2.0\SeguimientoAcademico.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Seguimiento\SeguimientoAcademico.App\SeguimientoAcademico.App.Dominio\bin\Debug\netstandard2.0\SeguimientoAcademico.App.Dominio.deps.json
+C:\Seguimiento\SeguimientoAcademico.App\SeguimientoAcademico.App.Dominio\bin\Debug\netstandard2.0\SeguimientoAcademico.App.Dominio.dll
+C:\Seguimiento\SeguimientoAcademico.App\SeguimientoAcademico.App.Dominio\bin\Debug\netstandard2.0\SeguimientoAcademico.App.Dominio.pdb
+C:\Seguimiento\SeguimientoAcademico.App\SeguimientoAcademico.App.Dominio\obj\Debug\netstandard2.0\SeguimientoAcademico.App.Dominio.dll
+C:\Seguimiento\SeguimientoAcademico.App\SeguimientoAcademico.App.Dominio\obj\Debug\netstandard2.0\SeguimientoAcademico.App.Dominio.pdb
