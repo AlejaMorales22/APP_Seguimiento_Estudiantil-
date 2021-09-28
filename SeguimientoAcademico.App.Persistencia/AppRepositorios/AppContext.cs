@@ -5,7 +5,10 @@ namespace SeguimientoAcademico.App.Persistencia
     public class AppContext:DbContext{
 
     
-        public DbSet <Persona> Personas {get;set;} 
+        public DbSet <Estudiante> Estudiantes {get;set;} 
+        public DbSet <Maestro> Maestros {get;set;} 
+        public DbSet <FamiliarDesignado> FamiliarDesignados {get;set;} 
+        public DbSet <Tutor> Tutores {get;set;} 
         
         protected override void OnConfiguring (DbContextOptionsBuilder optionsBuilder) {
 
