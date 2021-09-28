@@ -1,7 +1,7 @@
 
 namespace SeguimientoAcademico.App.Dominio
 {
-    public class Estudiante{
+    public class Estudiante : Persona{
 
 
 
